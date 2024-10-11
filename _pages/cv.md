@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S - Ph.D in Energy and Chemical Engineering
-        Ulsan National Institute of Science and Technology (UNIST), 2022.02
+* Ph.D in Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2022.02
 * B.S. Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2015.08
 
 Research experience
